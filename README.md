@@ -1,4 +1,4 @@
-# Ejemplo_pishing
+# Ejemplo de pishing
 Este repositorio es únicamente con fines educativos y para entender como es que funciona un ataque pishing.
 Un usuario en nuestra organización recibio el sigueinte correo electronico:
 
