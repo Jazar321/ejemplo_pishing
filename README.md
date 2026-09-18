@@ -16,8 +16,8 @@ Para reactivarla, verifique su identidad en el siguiente enlace
 antes de 24 horas o su cuenta será cancelada permanentemente:
 
    >> Verificar mi cuenta ahora <<
-   (texto visible: www.bbva.mx)
-   (enlace real: http://bbva-seguridad-verificacion.com/login)
+   (texto visible: www.banca-digital.mx)
+   (enlace real: [(https://Jazar321.github.io/ejemplo_pishing/)
 
 Gracias por su preferencia.
 Departamento de Seguridad BBVA
